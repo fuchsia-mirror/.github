@@ -1,0 +1,6 @@
+# Configuration for Repo Lockdown - https://github.com/dessant/repo-lockdown
+
+pulls:
+  comment: >
+    This repository does not accept pull requests.
+    Please follow https://fuchsia.dev/CONTRIBUTING for contribution to Fuchsia.
